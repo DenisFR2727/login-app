@@ -1,4 +1,4 @@
-Встановлені пакети:
+(installed packages):
     "react-axios": "^2.0.6",
     "react-dom": "^18.2.0",
     "react-redux": "^8.1.3",
